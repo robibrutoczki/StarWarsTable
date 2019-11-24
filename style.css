@@ -1,9 +1,12 @@
 	body{background-color: black;
-    background-image: url(img/SWB.jpg);
-    background-size:cover;
-    color: #00e600; }
+         background-image: url(img/SWB.jpg);
+        background-size:cover;
+        color: #87eb87;
+        padding: 0; }
 
 button {width:100px;
         border:2px solid black;
         border-radius :15px;
-        padding:5px;}
+        padding:5px;
+        background-color: #074607;
+        color: white;}
